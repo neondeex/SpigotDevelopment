@@ -1,0 +1,6 @@
+name: Apiusage
+version: '${version}'
+main: me.neondeex.apiusage.Apiusage
+api-version: 1.17
+authors: [ NeonDeex ]
+description: Understanding api usage
